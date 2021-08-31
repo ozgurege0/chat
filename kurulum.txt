@@ -1,0 +1,1 @@
+Gerekli dosyaları sunucunuza atın, ardından veritabanı ve mysql kullanıcısı oluşturup sql dosyasını phpmyadmin üzerinden içe aktar diyerek aktarın. Sonrasında php/config.php dosyasındaki gerekli veritabanı bilgilerini girin.
